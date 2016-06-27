@@ -9,3 +9,6 @@
 
 ** Updated at 2014.10.27 **
 - Add elf hook, and parsing elf dynamic library by executable view.
+
+
+http://blog.csdn.net/L173864930/article/details/40507359
